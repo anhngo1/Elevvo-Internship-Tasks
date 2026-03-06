@@ -199,8 +199,6 @@ Then open any of the `.ipynb` files to run the project.
 
 # Author
 
-**Mike Smith**
-
-Machine Learning and Software Development Enthusiast
+**Anh Ngo**
 
 ---
